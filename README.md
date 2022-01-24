@@ -1,7 +1,5 @@
-# Learning MongoDB
-This is the repository for the LinkedIn Learning course Learning MongoDB. The full course is available from [LinkedIn Learning][lil-course-url].
+# MongoDB with Node
 
-![Learning MongoDB][lil-thumbnail-url] 
 Excelling in an ever-changing software development world requires true "full stack" experience. Knowledge of nonrelational databases in particular adds exciting new capabilities and features that make everyday development easier, more streamlined, and vastly more scalable. This course provides an introduction to using MongoDB, one of the most popular nonrelational databases. Discover how to create documents to store data, organize documents in collections, and write queries to read, update, and delete documents. Instructor Justin Jenkins also shows how to properly index data to increase performance in MongoDB, and then shows how MongoDB can be integrated with applications written in Python, Node.js, and PHP. In the final chapter, he covers basic server administration, including replication, sharding, security, and backups. Make sure to practice your newfound MongoDB skills using the challenge and solution sets issued along the way.
 
 ## Learning objectives
